@@ -7,3 +7,4 @@ set(CMAKE_BUILD_TYPE Release)
 include_directories(include)
 
 file(GLOB SOURCES "src/*.c")
+set(CMAKE_C_FLAGS_RELEASE "-std=c18 -m64 -Ofast -flto -march=native -funroll-loops -fno-builtin -s")
