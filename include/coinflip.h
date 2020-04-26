@@ -1,0 +1,2 @@
+
+#ifndef COINFLIP_H
