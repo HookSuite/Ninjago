@@ -1,2 +1,2 @@
 #include <coinflip.h>
-#inc
+#incl
