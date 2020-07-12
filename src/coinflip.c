@@ -1,2 +1,2 @@
 #include <coinflip.h>
-#include <stdio.
+#include <stdio.h
