@@ -3,4 +3,4 @@
 #include <stdlib.h>
 #include <time.h>
 
-int inputData(void
+int inputData(void)
