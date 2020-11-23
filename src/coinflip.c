@@ -4,3 +4,4 @@
 #include <time.h>
 
 int inputData(void)
+{
