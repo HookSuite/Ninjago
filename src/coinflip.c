@@ -5,4 +5,4 @@
 
 int inputData(void)
 {
-    printf("Coi
+    printf("Coin
