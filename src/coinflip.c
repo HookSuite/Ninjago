@@ -5,4 +5,4 @@
 
 int inputData(void)
 {
-    printf("Coin Flip Simulat
+    printf("Coin Flip Simulati
