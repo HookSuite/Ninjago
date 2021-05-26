@@ -6,3 +6,4 @@
 int inputData(void)
 {
     printf("Coin Flip Simulation\n\n");
+ 
