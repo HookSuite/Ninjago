@@ -7,3 +7,4 @@ int inputData(void)
 {
     printf("Coin Flip Simulation\n\n");
     printf("Enter amount of flips: ");
+
