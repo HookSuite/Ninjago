@@ -9,4 +9,4 @@ int inputData(void)
     printf("Enter amount of flips: ");
 
     int amount;
-    sca
+    scan
