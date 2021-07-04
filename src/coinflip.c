@@ -9,4 +9,4 @@ int inputData(void)
     printf("Enter amount of flips: ");
 
     int amount;
-    scanf("%i",&
+    scanf("%i",&amo
