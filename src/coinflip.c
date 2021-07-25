@@ -10,4 +10,4 @@ int inputData(void)
 
     int amount;
     scanf("%i",&amount);
-    return amou
+    return amoun
