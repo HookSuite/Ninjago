@@ -12,3 +12,5 @@ int inputData(void)
     scanf("%i",&amount);
     return amount;
 }
+
+v
