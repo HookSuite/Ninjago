@@ -13,4 +13,4 @@ int inputData(void)
     return amount;
 }
 
-void generateRando
+void generateRandom
