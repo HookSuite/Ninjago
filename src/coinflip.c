@@ -15,4 +15,4 @@ int inputData(void)
 
 void generateRandom(int amount)
 {
-    in
+    int
