@@ -16,4 +16,4 @@ int inputData(void)
 void generateRandom(int amount)
 {
     int results[amount];
-    int heads = 
+    int heads = 0;
