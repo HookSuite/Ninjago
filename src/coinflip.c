@@ -17,3 +17,4 @@ void generateRandom(int amount)
 {
     int results[amount];
     int heads = 0;
+
