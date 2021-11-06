@@ -18,4 +18,4 @@ void generateRandom(int amount)
     int results[amount];
     int heads = 0;
 
-    srand(time(NULL))
+    srand(time(NULL));
