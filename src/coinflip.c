@@ -19,4 +19,4 @@ void generateRandom(int amount)
     int heads = 0;
 
     srand(time(NULL));
-    for (int
+    for (int 
