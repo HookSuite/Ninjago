@@ -21,4 +21,4 @@ void generateRandom(int amount)
     srand(time(NULL));
     for (int i = 0; i != amount; ++i)
         if (rand() & 1)
-        
+         
