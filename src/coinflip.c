@@ -22,4 +22,4 @@ void generateRandom(int amount)
     for (int i = 0; i != amount; ++i)
         if (rand() & 1)
             results[i] = 1;
- 
+  
