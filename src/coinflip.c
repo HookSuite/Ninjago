@@ -24,4 +24,4 @@ void generateRandom(int amount)
             results[i] = 1;
         else {
             results[i] = 0;
- 
+  
