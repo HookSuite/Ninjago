@@ -25,4 +25,4 @@ void generateRandom(int amount)
         else {
             results[i] = 0;
             ++heads;
-   
+     
