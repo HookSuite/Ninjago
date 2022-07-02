@@ -26,3 +26,4 @@ void generateRandom(int amount)
             results[i] = 0;
             ++heads;
         }
+
