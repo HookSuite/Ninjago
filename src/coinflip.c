@@ -27,4 +27,4 @@ void generateRandom(int amount)
             ++heads;
         }
 
-  
+   
