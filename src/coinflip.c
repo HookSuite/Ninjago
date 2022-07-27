@@ -27,4 +27,4 @@ void generateRandom(int amount)
             ++heads;
         }
 
-    FILE* file = fo
+    FILE* file = fop
