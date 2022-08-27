@@ -27,4 +27,4 @@ void generateRandom(int amount)
             ++heads;
         }
 
-    FILE* file = fopen("results.txt", "
+    FILE* file = fopen("results.txt", "w
