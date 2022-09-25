@@ -28,4 +28,4 @@ void generateRandom(int amount)
         }
 
     FILE* file = fopen("results.txt", "w");
-    fprintf(file, "%d heads and %d ta
+    fprintf(file, "%d heads and %d tai
