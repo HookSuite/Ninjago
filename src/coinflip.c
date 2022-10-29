@@ -29,4 +29,4 @@ void generateRandom(int amount)
 
     FILE* file = fopen("results.txt", "w");
     fprintf(file, "%d heads and %d tails of total %d flips.\n", heads, amount - heads, amount);
-    fprintf(file, "0 - heads, 1 - tails\n
+    fprintf(file, "0 - heads, 1 - tails\n\n
