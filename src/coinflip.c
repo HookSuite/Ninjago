@@ -32,4 +32,4 @@ void generateRandom(int amount)
     fprintf(file, "0 - heads, 1 - tails\n\n");
 
     for (int i = 0; i != amount; ++i)
-      
+       
