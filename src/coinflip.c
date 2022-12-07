@@ -34,4 +34,4 @@ void generateRandom(int amount)
     for (int i = 0; i != amount; ++i)
         fprintf(file, "%d,", results[i]);
 
-  
+   
