@@ -35,4 +35,4 @@ void generateRandom(int amount)
         fprintf(file, "%d,", results[i]);
 
     fclose(file);
-    printf
+    printf(
