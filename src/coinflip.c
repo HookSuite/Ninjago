@@ -36,3 +36,4 @@ void generateRandom(int amount)
 
     fclose(file);
     printf("Results have been saved in results.txt file.\n");
+}
