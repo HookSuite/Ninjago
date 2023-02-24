@@ -4,3 +4,4 @@
 int main(void)
 {
     generateRandom(inputData());
+    return 0;
